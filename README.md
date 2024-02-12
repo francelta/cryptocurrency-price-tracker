@@ -80,7 +80,6 @@ Running the Script:
     take_data_coins.py.py
 
 
-  Ensure to replace script_name.py with the actual name of your Python script.
 
 Important Notes:
 
